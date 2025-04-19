@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 ecf6de4992d70dd37c21676be6b8ba4743151e63 vinaycraft <vinay100876@gmail.com> 1743134235 +0530	clone: from C:/Users/Admin/AppData/Local/Composer/vcs/https---github.com-laravel-laravel.git/
+ecf6de4992d70dd37c21676be6b8ba4743151e63 4d6a75b0ea02fef80878584191c5f8fbfd136e83 vinaycraft <vinay100876@gmail.com> 1743134240 +0530	checkout: moving from 11.x to v12.0.3
+4d6a75b0ea02fef80878584191c5f8fbfd136e83 5a1787a8428e5a64e823eddb3fc44ff0d5649d92 vinaycraft <vinay100876@gmail.com> 1743233211 +0530	commit: first commit
+5a1787a8428e5a64e823eddb3fc44ff0d5649d92 487750ed0bc9c511c87f8010a37fa40b25d7ac62 vinaycraft <vinay100876@gmail.com> 1743233285 +0530	commit: first commit
+487750ed0bc9c511c87f8010a37fa40b25d7ac62 487750ed0bc9c511c87f8010a37fa40b25d7ac62 vinaycraft <vinay100876@gmail.com> 1743234243 +0530	checkout: moving from 487750ed0bc9c511c87f8010a37fa40b25d7ac62 to main
+487750ed0bc9c511c87f8010a37fa40b25d7ac62 bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 vinaycraft <vinay100876@gmail.com> 1743234264 +0530	commit: Initial commit: Added admin authentication, dashboard, and analytics
+bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 0000000000000000000000000000000000000000 vinaycraft <vinay100876@gmail.com> 1743237612 +0530	Branch: renamed refs/heads/main to refs/heads/main
+bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 vinaycraft <vinay100876@gmail.com> 1743237612 +0530	Branch: renamed refs/heads/main to refs/heads/main
+bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 0000000000000000000000000000000000000000 vinaycraft <vinay100876@gmail.com> 1743237627 +0530	Branch: renamed refs/heads/main to refs/heads/main
+bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 vinaycraft <vinay100876@gmail.com> 1743237627 +0530	Branch: renamed refs/heads/main to refs/heads/main
+bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 20c880a4bedfc752756e16473ba5095f259a9fa3 vinaycraft <vinay100876@gmail.com> 1743237772 +0530	commit: Update customer layout and welcome page, fix routing issues
+20c880a4bedfc752756e16473ba5095f259a9fa3 19ce68ada3f6c19f642418dd98b7533b43cf86ec vinaycraft <vinay100876@gmail.com> 1744809920 +0530	commit: Fixed admin login and analytics issues. Added category to dishes and improved error handling.

@@ -1,0 +1,81 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+
+@theme {
+    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+        'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+body, .container, .main-content, main {
+    background: #0d001a !important;
+    color: #f3e8ff !important;
+    font-family: var(--font-sans);
+}
+
+header, nav, footer, .navbar, .sidebar {
+    background: #1a0033; /* dark purple */
+    color: #f3e8ff;
+}
+
+.card, .panel, .modal, .dropdown-menu, .form-control, input, textarea, select {
+    background: #1a0033 !important;
+    color: #f3e8ff !important;
+    border-color: #4b006e !important;
+    box-shadow: 0 0.125rem 0.25rem rgba(75,0,110,0.15) !important;
+}
+
+.btn, button, input[type="submit"] {
+    background: linear-gradient(90deg, #4b006e 0%, #1a0033 100%);
+    color: #f3e8ff;
+    border: 1px solid #4b006e;
+}
+.btn:hover, button:hover, input[type="submit"]:hover {
+    background: #b266ff;
+    color: #0d001a;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:focus, .btn-primary:visited {
+    background: linear-gradient(90deg, #4b006e 0%, #1a0033 100%) !important;
+    color: #f3e8ff !important;
+    border: 1px solid #4b006e !important;
+}
+.btn-primary:hover {
+    background: #b266ff !important;
+    color: #0d001a !important;
+    border-color: #b266ff !important;
+}
+
+a, .btn-link {
+    color: #b266ff;
+}
+a:hover, .btn-link:hover {
+    color: #e0aaff;
+}
+
+hr, .divider {
+    border-color: #4b006e !important;
+}
+
+::-webkit-scrollbar {
+    background: #1a0033 !important;
+}
+::-webkit-scrollbar-thumb {
+    background: #4b006e !important;
+}
+
+/* Override Bootstrap's bg-white and text-dark */
+.bg-white, .bg-light {
+    background: #1a0033 !important;
+}
+.text-dark {
+    color: #f3e8ff !important;
+}
+
+/* For headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #e0aaff !important;
+}

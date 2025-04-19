@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 487750ed0bc9c511c87f8010a37fa40b25d7ac62 vinaycraft <vinay100876@gmail.com> 1743234243 +0530	branch: Created from HEAD
+487750ed0bc9c511c87f8010a37fa40b25d7ac62 bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 vinaycraft <vinay100876@gmail.com> 1743234264 +0530	commit: Initial commit: Added admin authentication, dashboard, and analytics
+bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 vinaycraft <vinay100876@gmail.com> 1743237612 +0530	Branch: renamed refs/heads/main to refs/heads/main
+bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 vinaycraft <vinay100876@gmail.com> 1743237627 +0530	Branch: renamed refs/heads/main to refs/heads/main
+bdb267f7aff5c52ef71e8dc92ebff5086dcf7031 20c880a4bedfc752756e16473ba5095f259a9fa3 vinaycraft <vinay100876@gmail.com> 1743237772 +0530	commit: Update customer layout and welcome page, fix routing issues
+20c880a4bedfc752756e16473ba5095f259a9fa3 19ce68ada3f6c19f642418dd98b7533b43cf86ec vinaycraft <vinay100876@gmail.com> 1744809920 +0530	commit: Fixed admin login and analytics issues. Added category to dishes and improved error handling.
